@@ -1,0 +1,20 @@
+body {
+	background: #CC0033;
+}
+
+#capa {
+	width: 100%;
+	}
+
+#objetivo {
+	 font-weight: bold;
+	 color: greenyellow;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
