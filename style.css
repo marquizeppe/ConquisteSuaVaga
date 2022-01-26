@@ -1,5 +1,14 @@
 body {
-	background: #CC0033;
+	background: linear-gradient(#f09, #3023AE, #0ff);
+
+}
+
+header {
+	font-size: 15px;
+}
+
+.titulo-centralizado {
+	text-align: center;
 }
 
 #capa {
@@ -8,13 +17,21 @@ body {
 
 #objetivo {
 	 font-weight: bold;
-	 color: greenyellow;
 }
 
 h1 {
-	text-align: center;
+	padding: 20px;
 }
 
 p {
 	text-align: center;
+	color: black;
+}
+
+h2 {
+	padding: 20px;
+}
+
+h3 {
+	padding: 20px;
 }
