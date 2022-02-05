@@ -30,7 +30,7 @@ nav a {
 }
 
 nav a:hover {
-	color: grey;
+	color: darkblue;
 	text-decoration: underline;
 }
 
@@ -52,6 +52,18 @@ nav a:hover {
 	border-radius: 20px;
 }
 
+.produtos li:hover {
+	border-color: #daa520;
+} 
+
+.produtos li:active {
+	border-color: royalblue;
+} 
+
+.produtos li:hover h2 {
+	font-size: 34px;	
+}
+
 .produtos h2 {
 	font-size: 30px;
 	font-weight: bold;
@@ -67,3 +79,11 @@ nav a:hover {
 	margin-top: 10px;
 }
 
+footer {
+	text-align: center;
+	padding: 60px 0;
+}
+
+.gustavo {
+	color: red;
+}
